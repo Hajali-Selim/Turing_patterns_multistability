@@ -1,2 +1,2 @@
-# Turing_patterns_multistability
-Generate Turing patterns on networks, and predict their multistability using the graph Laplacian spectral gaps
+# Turing patterns multistability
+Generate Turing patterns on graphs using the Gierer-Meinhardt model, and predict their multistability using the graph Laplacian spectral gaps
